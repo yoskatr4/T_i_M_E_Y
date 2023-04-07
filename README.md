@@ -4,7 +4,7 @@ Python ile yaptığım bir sesli asistan
 
 
 # Social Media
-  <a href="https://linktr.ee/yoskass">📺</a>
+  <a href="https://linktr.ee/yoskass">📺Tüm Linkler</a>
 
 # Komutlar
 
